@@ -1,1 +1,4 @@
-# xs4all
+xs4all
+======
+
+internet insanity
